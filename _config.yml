@@ -1,0 +1,15 @@
+# GitHub Pages configuration
+title: Taxômetro
+description: Compare taxas de máquinas de cartão
+lang: pt-BR
+theme: null
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .gitignore
+
+# Include hidden files
+include:
+  - manifest.json
+  - sw.js
